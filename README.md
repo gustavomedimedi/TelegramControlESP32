@@ -66,6 +66,9 @@ Una vez registrado un pin con nombre "nombre", el bot acepta:- /encender_nombre
 - Prototipos accesibles y personalizados
 - Comunicación aumentativa y tecnología de apoyo
 
+<img width="799" height="945" alt="image" src="https://github.com/user-attachments/assets/b040f51a-ccdb-4e97-9ffb-0a86d56afb8a" />
+
+
 ![Imagen de WhatsApp 2025-09-24 a las 08 42 44_23f3bdc4](https://github.com/user-attachments/assets/ba3f49d3-59bc-4c84-9335-84e4367a55c6)
 
 
