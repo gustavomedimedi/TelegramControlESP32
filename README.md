@@ -54,6 +54,16 @@ void loop() {
   }
 }
 ```
+📚 Comandos disponiblesUna vez registrado un pin con nombre "nombre", el bot acepta:- /encender_nombre
+- /apagar_nombre
+- /estado_nombre
+- /menu → muestra todos los comandos disponibles
+  
+🧠 Ideal para…- Clases de robótica educativa
+- Proyectos STEAM con jóvenes
+- Prototipos accesibles y personalizados
+- Comunicación aumentativa y tecnología de apoyo
+
 
 📜 LicenciaEste proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente, siempre reconociendo al autor original.
 ✨ AutorGustavo — Prof en robótica educativa, apasionado por la inclusión, la creatividad y el aprendizaje colaborativo.
