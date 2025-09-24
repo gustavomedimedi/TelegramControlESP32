@@ -28,7 +28,7 @@ Una biblioteca educativa para controlar múltiples pines del ESP32 mediante coma
 - ArduinoJson
 
 Ejemplo:
-
+```cpp
 #include "TelegramControlESP32.h"
 
 #define BOT_TOKEN "TU_TOKEN"
@@ -53,7 +53,7 @@ void loop() {
     delay(5000);
   }
 }
-
+```
 
 📜 LicenciaEste proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente, siempre reconociendo al autor original.
 ✨ AutorGustavo — Prof en robótica educativa, apasionado por la inclusión, la creatividad y el aprendizaje colaborativo.
