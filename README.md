@@ -66,6 +66,8 @@ Una vez registrado un pin con nombre "nombre", el bot acepta:- /encender_nombre
 - Prototipos accesibles y personalizados
 - Comunicación aumentativa y tecnología de apoyo
 
+![Imagen de WhatsApp 2025-09-24 a las 08 42 44_23f3bdc4](https://github.com/user-attachments/assets/ba3f49d3-59bc-4c84-9335-84e4367a55c6)
+
 
 ## 📜 LicenciaEste proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente, siempre reconociendo al autor original.
 ## ✨ AutorGustavo — Prof en robótica educativa, apasionado por la inclusión, la creatividad y el aprendizaje colaborativo.
